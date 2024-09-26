@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/666a6698-edf5-4b70-9360-4a88b0c6e3ef)
 
 # Website
-https://www.windows10sunvalley.is-a.dev/
+[https://www.windows10sunvalley.is-a.dev/](https://windows10sunvalley.is-a.dev/)
 
 # Demo video (Initial Release Fix 1)
-https://www.youtube.com/watch?v=aFOdqd0AY8Y
+[https://www.youtube.com/watch?v=aFOdqd0AY8Y](https://youtu.be/aFOdqd0AY8Y?si=V5YcHZW4MT8JBQ69)
 
 Aims to restore the original Sun Valley look before June 15/June 24 2021.
 Check "Releases" for download
